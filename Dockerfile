@@ -1,4 +1,4 @@
-FROM i386/debian:stable-slim
+FROM i386/debian:stable
 
 ENV DEBIAN_FRONTEND noninteractive
 
